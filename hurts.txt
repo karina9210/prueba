@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<p> My whole life waiting for the right time
+To tell you how I feel
+Know I try to tell you that I need you.
+Here I am without you
+I feel so lost but what can I do?
+'Cause I know this love seems real
+But I don't know how to feel.</p>
+
+</head>
+<body>
+<h1>pratica1</h1>
+
+</body>
+</html>
